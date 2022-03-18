@@ -21,3 +21,5 @@ public class Student {
         System.out.println(S2.name);
     }
 }
+
+Editing in IDE
